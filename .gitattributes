@@ -1,0 +1,4 @@
+# the engine and gen/ need the exact bytes, so git must never change line endings here
+voice/** -text
+*.sh text eol=lf
+*.bat text eol=crlf

@@ -1,0 +1,12 @@
+; Voice descriptor file for Loquendo TTS
+
+"Include"		=	"SpanishEs6.2.lde"
+"Description"		=	"Castilian Spanish male voice"
+"Idiolect"		=	"idiolect3"
+"Lexicon[0]"		=	"SpanishEs/SpanishEs6.2.lex"
+"Lexicon[1]"		=	"SpanishEs/Jorge/Jorge.lex"
+"Baseline"		=	"50,85,250"
+"Speed"			=	"50,128,250"
+"SignalDescriptor[0]" 	=	"SpanishEs/Jorge/Jorge"
+"Gender"		=	"Male"
+"Age"			=	"40"

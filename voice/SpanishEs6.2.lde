@@ -1,0 +1,8 @@
+; Language descriptor file for Loquendo TTS
+
+"Description"		=	"Castillan Spanish generic descriptor file"
+"Library"		=	"LoqSpanish6.2"
+"Language"		=	"Spanish"
+"SubLanguage"		=	"es,es-ES,SpanishEs,Castilian"
+"WinLangid"		=	"1034"
+"Lexicon[0]"		=	"SpanishEs/SpanishEs6.2.lex"

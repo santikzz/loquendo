@@ -1,0 +1,26 @@
+/tools/
+/ida/
+
+# build output
+/build/
+/jorge
+*.exe
+*.o
+*.obj
+*.wav
+
+# IDA databases
+*.i64
+*.idb
+*.id0
+*.id1
+*.id2
+*.nam
+*.til
+
+.venv/
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+.DS_Store
